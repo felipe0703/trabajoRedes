@@ -1,0 +1,32 @@
+.bienvenidos {
+	background: url("../image/valdivia.jpg");
+	background-size: cover;/*mejora las imagenes*/
+	height: 100vh;/*100%  de la pantalla del usuario*/
+  	overflow: hidden; 
+}
+.texto-bienvenidos {
+  	color: #fff;
+	margin-top: 9rem; 
+}
+.video{
+	background: #7db804;
+	height: 600px;
+}
+.video-1{
+	background: green;
+}
+.video-2{
+	background: blue;
+}
+.footer {
+  color: #fff;
+  background: #222222; }
+ .quienes-somos{
+ 	background: #7db804;
+ 	padding-top: 50px;
+ }
+ .slider-1 img{
+ 	width:30%;
+ 	height: 30%	;
+ 	border-radius: 50%;
+ }
