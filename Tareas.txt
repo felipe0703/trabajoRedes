@@ -1,0 +1,8 @@
+Falta:
+-Nombre del proyecto
+-Imagenes dinamicas
+-Descripcion del proyecto
+-Cambiar fotos personales
+-Ruta del mapa
+-Hosting
+-Formulario(boton)
